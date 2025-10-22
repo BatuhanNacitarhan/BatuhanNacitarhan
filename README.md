@@ -1,4 +1,7 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Batuhan Nacitarhan</h1>
+<h3 align="center">🎓 4th-year Computer Engineering Student | 💡 Passionate about AI, Android & Backend Development</h3>
+
 
 <!--
 **BatuhanNacitarhan/BatuhanNacitarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
