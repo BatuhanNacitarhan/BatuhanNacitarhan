@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Batuhan Nacitarhan</h1>
-<h3 align="center">💻 4th Year Computer Engineering Student | 🚀 Passionate about AI, Android & Database Systems</h3>
+<h3 align="center">💻 Computer Engineering Student </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/batuhan-nacitarhan/" target="_blank">
@@ -16,11 +16,11 @@
 ---
 
 ### 🎯 About Me
-- 🎓 I'm a senior Computer Engineering student at **İnönü University (2022–2026)**, Malatya/Turkey  
-- 💡 I’m passionate about **AI, Android Development, and Database Management Systems**  
-- 🧠 Currently improving my skills in **Spring Boot, Kotlin, and PostgreSQL**  
+- 🎓 I'm a Computer Engineering student at **İnönü University (2022–2026)**, Malatya/Turkey
+- ⚡ I made learning research and acquiring new knowledge my goal.
+- 💡 I’m passionate about **Android Development, Database Management Systems, AI, Image Processing**  
+- 🧠 Currently improving my skills in **Android Studio Kotlin, PostgreSQL, HTML/CSS**  
 - 🤝 I love collaborating on real-world projects and applying theory into practice  
-- ⚡ Fun fact: I enjoy turning course projects into full-fledged applications  
 
 ---
 
@@ -37,36 +37,3 @@
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
-
-### 🧠 Featured Projects
-
-#### 📚 **Library Database and Management System**
-> *Java, PostgreSQL, HTML/CSS*
-- Developed a **library management system** where users and staff can log in, register, and manage books  
-- Implemented **book borrowing/return tracking**, visualized current states, and managed data with PostgreSQL  
-- Built with Java on Eclipse, featuring a web interface for user interactions  
-
-#### 🧬 **Retinal Blood Vessel Segmentation**
-> *Python, Deep Learning (U-Net)*
-- Used deep learning for early diagnosis of diabetic retinopathy  
-- Applied **patch-based image segmentation** and U-Net model for accurate blood vessel detection  
-- Focused on comparing optical disc regions and enhancing image clarity  
-
-#### 🧓 **Alzheimer Patient Tracking Application**
-> *Android, Firebase*
-- Developed an Android app to help monitor Alzheimer patients’ routines and locations  
-- Used **Firebase** for real-time data synchronization  
-- Designed UI using **XML** and managed logic in **Kotlin**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BatuhanNacitarhan&show_icons=true&theme=tokyonight" alt="Batuhan's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanNacitarhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### ☕ Support
-If you like my projects, consider supporting me by sharing or starring ⭐ my repositories!  
