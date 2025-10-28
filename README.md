@@ -11,7 +11,11 @@
   <a href="https://github.com/BatuhanNacitarhan">
     <img src="https://img.shields.io/badge/GitHub-BatuhanNacitarhan-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="https://www.kaggle.com/batuhannacitarhan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Retina%20Damar%20Segmentasyonu-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+  </a>
 </p>
+
 
 ---
 
