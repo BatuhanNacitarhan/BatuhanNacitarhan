@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: AKS-Labs
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#03dbfc
             dist/github-contribution-grid-snake-dark.svg?color_snake=#36BCF7&palette=github-dark
